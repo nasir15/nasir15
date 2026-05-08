@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasir15&label=Profile%20views&color=0e75b6&style=flat" alt="nasir15" /> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Distributed Systems**
 
-- 💬 Ask me about **Python, Django and backend development**
+- 💬 Ask me about **Python, Django, Fast API and LLM etc**
 
 - 📫 How to reach me **nasirfareed15@gmail.com**
 
